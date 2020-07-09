@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: QZ@Pi
+name: QZ
 
 on:
   push:
